@@ -1,4 +1,4 @@
-<h1 align="center" id="title">Inditex Test E2E</h1>
+<h1 align="center" id="title">Prueba e2e</h1>
 
 - ## 💻 Pre-requisites
 
